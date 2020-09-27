@@ -31,6 +31,6 @@ More detailed instructions are available in [Overview.pdf](https://github.com/ij
 
 This project was submitted as a 'computer networking' class assignment for the second semester of 2018.
 
-자세한 지침은 [Overview.pdf](https://github.com/ijnuemik/iot-deliverybox/blob/master/1-Overview.pdf)에서 확인할 수 있습니다.
+자세한 은 [Overview.pdf](https://github.com/ijnuemik/iot-deliverybox/blob/master/1-Overview.pdf)에서 확인할 수 있습니다.
 
 2018년 2학기 '컴퓨터 네트워킹' 과제로 제출한 프로젝트입니다.
