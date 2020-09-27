@@ -14,7 +14,7 @@ The delivery system will be safer if unmanned delivery boxes are well equipped.
 - [Python](https://www.python.org/)
 - [Docker](https://www.docker.com/)
 - [Influxdb](https://www.influxdata.com/)
-- [zoneminder](https://zoneminder.com/)
+- [Zoneminder](https://zoneminder.com/)
 
 ## Features
 - Monitoring delivery boxes through real-time CCTV footage
